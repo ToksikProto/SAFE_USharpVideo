@@ -1,4 +1,4 @@
-
+﻿
 #define USE_SERVER_TIME_MS // Uses GetServerTimeMilliseconds instead of the server datetime which in theory is less reliable
 
 using JetBrains.Annotations;
